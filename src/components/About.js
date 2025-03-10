@@ -1,4 +1,5 @@
 import React from "react";
+import PortfolioPicture from "../media/Portfolio Picture.JPG";
 
 export default function About() {
     return (
@@ -32,7 +33,7 @@ export default function About() {
                     <img
                     className="object-cover object-center rounded"
                     alt="hero"
-                    src="'./Portfolio Picture.JPG'"
+                    src="{PortfolioPicture}"
                     />
                 </div>
             </div>

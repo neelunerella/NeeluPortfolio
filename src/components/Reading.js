@@ -15,10 +15,10 @@ export default function Reading() {
                         <div className="p-4 md:w-1/2 w-full">
                             <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                                 <ClipboardDocumentCheckIcon/>
-                                
+
                             </div>
                         </div>
-                    ))};
+                    ))}
                 </div>
             </div>
         </section>
