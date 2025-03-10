@@ -28,3 +28,8 @@ export const projects = [
         image: "./notebook.gif"
     }
 ];
+
+export const skills = [
+    "Python", "C++/C", "R", "SQL", "Java", "JavaFX", "JavaScript", "MATLAB", "Arduino", "Linux", "AutoCAD", "AWS SageMaker", "Jupyter Notebook", "Google COLAB", "Data Visualization", "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "Pandas", "NumPy", "OpenCV", "Matplotlib", "Seaborn"
+];
+
