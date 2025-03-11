@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 // import Reading from "./components/Reading";
-/*
+
 export default function App() {
     return (
         <main className="text-black bg-white body-font">
@@ -17,9 +17,9 @@ export default function App() {
         </main>
     );
 }
-*/
 
-function App() {
+
+/*function App() {
     return (
         <div>
             <h1>Hello, Neelu!</h1>
@@ -28,4 +28,4 @@ function App() {
     );
 }
 
-export default App;
+export default App;*/
