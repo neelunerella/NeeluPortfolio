@@ -14,6 +14,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@fontsource/outfit": "^5.2.5",
+    "@fontsource/roboto": "^5.2.5",
     "@heroicons/react": "^1.0.6",
     "gh-pages": "^6.3.0",
     "react-dom": "^19.0.0",
